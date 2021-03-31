@@ -1,3 +1,3 @@
 # cmc
 
-for coinmarketcap
+for coinmarketcap.
